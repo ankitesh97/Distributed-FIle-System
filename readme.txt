@@ -1,6 +1,3 @@
-Author: Pranit Yadav
-Python version: 3.5.2
-Fourth Scoekt Programming Assignment
 
 Functionality:
 1)Python 3.0-3.5 has been used for this code.
